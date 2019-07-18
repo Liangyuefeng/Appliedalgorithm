@@ -1,2 +1,4 @@
 # Appliedalgorithm
-some problems in Applied algorithms Course
+Two problems in Applied algorithms Course
+1.BFTP
+2.Super Substring Problem
